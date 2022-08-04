@@ -1,0 +1,102 @@
+
+
+body{
+    background-color:  #E6E6E6;
+}
+
+.conteudo-principal-navegacao{
+    background-color: #DBA901;
+    margin: none;
+    padding: none;
+
+}
+span{
+    color: black;
+}
+h1{
+    color: white;
+font-size: 50px;
+}
+.conteudo-principal-nome{
+    display:flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 5px 0px;
+}
+.principal-navegacao-links{
+    display:flex;
+    justify-content: center;
+   gap: 15px;
+   padding: 5px;
+   margin-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+   font-size: 20px;
+   color: white;
+   
+}
+a:link, a:visited{
+    color: #FFF;
+    padding: 8px 12px;
+}
+a:visited{
+    color: #FFF;
+    padding: 8px 12px;
+}
+a:hover{
+    color: #f7b600;
+    background: #fff;
+}
+
+
+.janelas-flutuantes{
+    float: right;
+    width: 280px;
+    background-color:white;
+   padding: 5px;
+   clear: both;
+   margin-right: 150px;
+
+}
+
+.conteudo-principal-janela{
+    background-color: #E6E6E6;
+    color: #0B0B61;
+    padding: 0%;
+}
+
+.vamos-todos{
+    display: flex;
+    justify-content: center;
+    width: 680px;
+    margin-left: 150px;
+    background-color: white;
+    border: 3px red solid;
+}
+
+.Conteudo-principal-meio{
+    margin: 10px;
+}
+
+.titulo-conteudo-pricpial{
+    color: #DBA901;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+   margin-top: -2px;
+}
+.agenda{
+    margin-top: -28px;
+    padding: 5px;
+}
+
+.conteudo-principal-imagem{
+    padding: 5px;
+}
+
+.conteudo-janela2{
+    color: #DBA901;
+
+}
